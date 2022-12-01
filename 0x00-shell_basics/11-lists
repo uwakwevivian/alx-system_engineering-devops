@@ -1,4 +1,2 @@
 #!/bin/bash
-ls -la . ../boot
-
-chmod u+x 11-lists
+chmod -R ugo+X .
