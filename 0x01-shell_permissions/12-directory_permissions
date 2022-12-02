@@ -1,2 +1,2 @@
 #!/bin/bash
-chcmod /tmp/iamafile
+mkdir -m 751 my-dir
